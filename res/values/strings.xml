@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MARS</string>
+    <string name="sign_in" />
+    <string name="signed_out" />
+    <string name="firebaseui_title_text" />
+    <string name="emailpassword_title_text" />
+    <string name="emailpassword_status_fmt" />
+    <string name="firebase_status_fmt" />
+    <string name="verify_email" />
+    <string name="sign_out" />
+    <string name="create_account" />
+    <string name="hint_password" />
+    <string name="hint_email" />
+    <string name="auth_failed" />
+</resources>
